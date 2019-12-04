@@ -1,0 +1,17 @@
+com\ft\house\common\model\Community.class
+com\ft\house\common\page\PageData.class
+com\ft\house\common\model\City.class
+com\ft\house\common\model\HouseUser.class
+com\ft\house\common\constants\CommonConstants.class
+com\ft\house\common\constants\HouseUserType.class
+com\ft\house\common\page\PageParams.class
+com\ft\house\common\model\User.class
+com\ft\house\common\result\ResultMsg.class
+com\ft\house\common\utils\BeanHelper.class
+com\ft\house\common\model\Comment.class
+com\ft\house\common\page\Pagination.class
+com\ft\house\common\model\Blog.class
+com\ft\house\common\utils\HashUtils.class
+com\ft\house\common\model\House.class
+com\ft\house\common\model\Agency.class
+com\ft\house\common\model\UserMsg.class

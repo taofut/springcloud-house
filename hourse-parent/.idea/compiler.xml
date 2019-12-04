@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="house-common" />
+        <module name="spring-admin" />
+        <module name="house-biz" />
+        <module name="house-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="hourse" target="1.8" />
+      <module name="hourse-biz" target="1.8" />
+      <module name="hourse-common" target="1.8" />
+      <module name="hourse-web" target="1.8" />
+      <module name="house-biz" target="1.8" />
+      <module name="house-common" target="1.8" />
+      <module name="house-web" target="1.8" />
+      <module name="spring-admin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-admin" options="" />
+    </option>
+  </component>
+</project>
